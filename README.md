@@ -13,7 +13,7 @@ A system to manage and schedule appointments efficiently.
 
 ### 3. GitHub Profile Finder
 A tool to search and display GitHub profiles using the GitHub API.
-- **Live Link:** [GitHub Profile Finder](https://githubprofilefinder-parth.netlify.com)
+- **Live Link:** [GitHub Profile Finder](https://githubprofilefinder-parth.netlify.app/)
 
 ## Learning Resources
 
